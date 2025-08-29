@@ -20,7 +20,7 @@ int main() {
     // Optional: enable vsync
     glfwSwapInterval(1);
 
-    // Set a nice clear color once
+    // Set a color 
     glClearColor(0.1f, 0.12f, 0.15f, 1.0f);
 
     // Loop until the user closes the window
