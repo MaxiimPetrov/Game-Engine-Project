@@ -3,7 +3,7 @@ To setup project on your own machine:
 
 1. git clone --recurse-submodules <THIS_REPO_URL>
 
-2. cd glfw-starter
+2. cd Game-Engine-Project
 
 3. cmake -S . -B build
 
