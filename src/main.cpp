@@ -2,6 +2,7 @@
 #include <iostream>
 
 int main() {
+    std::cout << "TESTING!";
     if (!glfwInit()) {
         std::cerr << "Failed to initialize GLFW\n";
         return -1;
